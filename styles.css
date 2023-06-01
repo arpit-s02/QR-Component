@@ -17,9 +17,9 @@ body {
 .qr-screen {
   width: 100%;
   border-radius: 5px;
-  overflow: hidden;
 }
 
 .qr-screen img {
   width: 100%;
+  border-radius: 5px;
 }
